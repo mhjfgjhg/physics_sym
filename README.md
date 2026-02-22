@@ -9,6 +9,7 @@ A 3D simulation Lorenz sysem "Butterfly Effect"
 On the *Euler method* and *Runge-Kutti*
 
 The system is composed of three ordinary differential equations:
+
 $$
 \begin{aligned}
 \frac{dx}{dt} &= \sigma(y - x) \\
